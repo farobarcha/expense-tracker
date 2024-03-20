@@ -71,4 +71,4 @@ expense-tracker
 ```
 
 ### Preview
-![expense-tracker](https://github.com/farobarcha/expense-tracker/assets/19695563/2575268b-4ad9-4fe8-88c9-8c70eddb47f3)
+![expense-tracker](https://github.com/farobarcha/expense-tracker/assets/19695563/f4904013-6a0e-409b-9615-8f2a9b043f14)
