@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "register-service-worker": "^1.7.2",
-    "vue": "^3.2.13"
+    "uid": "^2.0.2",
+    "vue": "^3.2.13",
+    "vuejs3-datepicker": "^1.1.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-pwa": "~5.0.0",
